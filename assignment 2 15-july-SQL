@@ -1,0 +1,60 @@
+
+                                                                                   Assignment 1
+
+
+1. Write an SQL query to retrieve the names and email addresses of all employees from a table named "Employees".
+
+=> select emp_name, emp_email from Employees;
+
+
+2. Write an SQL query to filter records from a table named "Customers" where the "City" column is 'New York'.
+
+=> select * from employee
+        where city = 'New York' ;
+
+
+3. Write an SQL query to sort records in descending order based on the "DateOfBirth" column in a table named "Users".
+
+=> select * from Users
+        order by DateOfBirth desc ;
+
+
+4. Write an SQL query to sort records in ascending order based on the "RegistrationDate" column in a table named "Users".
+
+=> select * from Users
+        order by RegistrationDate ;
+
+
+5. Write an SQL query to find the employee with the highest salary from a table named "Employees" and display their name, position, and salary.
+
+=> select emp_name, position, salary
+        from Employees
+        order by salary desc limit 1 ;
+
+
+6. Write an SQL query to retrieve records from a table named "Customers" where the "Phone" column matches the pattern '+1-XXX-XXX-XXXX'.
+
+=> select * from Customers
+        where Phone LIKE '+1-___-___-____';
+
+
+7. Write an SQL query to retrieve the top 5 customers with the highest total purchase amount from a table named "Orders" and display their names and total purchase amounts.
+
+=> select cust_name, sum(purchase_amount) as total_purchase_amount
+        from Orders
+        group by cust_name
+        order by total_purchase_amount desc limit 5 ;
+
+
+8. Write an SQL query to calculate the percentage of sales for each product category in a table named "Sales" and display the category name, total sales amount, and the percentage of total sales.
+
+=> select category_name, sum(sales_amount) as total_sales_amount, (sum(sales_amount) / (select sum(sales_amount)) * 100 as percentage_total_sales
+        from Sales
+        group by category_name ;
+
+
+9. Write an SQL query to find the customers who have made the highest total purchases across all years from a table named "Orders" and display their names, email addresses, and the total purchase amount.
+
+=> select cust_name, email, sum(amount) as total_purchase_amount
+        from Orders
+        order by cust_name ;
