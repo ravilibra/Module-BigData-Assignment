@@ -4,12 +4,26 @@
 Divisibility
 
 1) Which one of the following numbers is divisible by 99?
-a) 3572404 b) 135792 c) 913464 d) 114345
-2) If n is an integer, what is the remainder when (2n + 2)2 is divided by 4?
+a) 3572404 = NO
+b) 135792 = YES
+c) 913464 = NO
+d) 114345 = NO
+
+2) If n is an integer, what is the remainder when (2n + 2)^2 is divided by 4?
+=> 0
+
 3) Find two nearest numbers to 19506 which are divisible by 9?
+=> 19503
+
 4) What is the value of M and N respectively if M39048458N is divisible by 8 and 11, where M and N are single digit integers?
+=> M = 6, N = 4
+
 5) How many pairs of X and Y are possible in the number 763X4Y2, if the number is divisible by 9?
+=> (1,4), (2,3), (3,2), (4,1)
+
 6) When the integer n is divided by 8, the remainder is 3. What is the remainder if 6n is divided by 8?
+=> 
+
 7) If the product 4864 x 9P2 is divisible by 12, then what is the value of P?
 8) If the number 7X86038 is exactly divisible by 11, then the smallest whole number in place of X?
 9) If an integer n is divisible by 3, 5 and 12, what is the next larger integer divisible by all these numbers?
