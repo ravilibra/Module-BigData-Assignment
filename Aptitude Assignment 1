@@ -104,29 +104,64 @@ Unit digits (Cyclicity)
 Remainders
 
 1) What is the remainder when 7^25 is divided by 6?
-2) What is the remainder when 3^45 is divided by 8?
-3) Find the remainder when 4^96 is divided by 6.
-4) What is the remainder when 1415^16 is divided by 5?
-5) Find the remainder when 67^99 is divided by 7.
-6) What is the remainder when 73x75x78x57x197x37 is divided by 34.
-7) Let N = 1421*1423*1425. What is the remainder when N is divided by 12?
-8) Find the remainder when 2^256 is divided by 17.
-9) The remainder of 39^971 / 40 is:
-a) 39 b) 0 c) 1 d) None of these
-10) Find the remainder on dividing 1!+2!+3!.....+100! by 7?
+=> 1
 
+2) What is the remainder when 3^45 is divided by 8?
+=> 3
+
+3) Find the remainder when 4^96 is divided by 6.
+=> 4
+
+4) What is the remainder when 1415^16 is divided by 5?
+=> 0
+
+5) Find the remainder when 67^99 is divided by 7.
+=> 1
+
+6) What is the remainder when 73x75x78x57x197x37 is divided by 34.
+=> 32
+
+7) Let N = 1421*1423*1425. What is the remainder when N is divided by 12?
+=> 3
+
+8) Find the remainder when 2^256 is divided by 17.
+=> 1
+
+9) The remainder of 39^971 / 40 is:
+=> c) 1 
+
+10) Find the remainder on dividing 1!+2!+3!.....+100! by 7?
+=> 5
 
 Factorials
 
 1) What is the highest power of 21 that divides 20!?
+
+
 2) What is the highest power of 32 that divides 31!?
+
+
 3) Find the largest number less than 28 which divides 28!?
+
+
 4) Find the number of zeroes at the end of 97!
+
+
 5) What is the highest power of 12 that divides 54!?
+
+
 6) Find the least value of x such that 60!/2^x is an odd number.
+
+
 7) Find the least value of ‘n’ if no factorial can have ‘n’ zeroes?
+
+
 8) What is the highest power of 7! dividing 50! completely.
+
+
 9) How many more trailing zeroes would 625! have than 624!?
+
+
 10) Find the number of zeroes at the end of 1^1 × 2^2 × 3^3.....×100^100
 
 
