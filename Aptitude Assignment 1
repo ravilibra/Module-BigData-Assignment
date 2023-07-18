@@ -60,10 +60,13 @@ Factors
 => 210
 
 8) How many factors of 2^7 x 3^6 x5^4 x 7^3 are even perfect squares?
-=>
+=> 72
 
 9) In how many ways can 480 be written as a product of two natural numbers?
+=> 24
+
 10) How many factors of 2^5 x 3^4 x 5^3 are not the factors of 2^3 x 5^4 x7^5
+=> 15
 
 
 Unit digits (Cyclicity)
