@@ -72,18 +72,34 @@ Factors
 Unit digits (Cyclicity)
 
 1) What is the unit digit in the product (3^65 x 6^59 x 7^71) ?
+=> 2
+
 2) Find unit digit of product (173)^45 * (152)^77 * (777)^999
+=> 8
+
 3) What is the unit's digit of the number 6^256 – 4^256 ?
+=> 0
 
 4) Find the unit's digit in 264^102 + 264^103
+=> 0
+
 5) What is the unit digit of (316)^3n + 1?
+=> 7
+
 6) What is the unit digit in (7^95 - 3^58)?
+=> 4
 
 7) What is the rightmost non-zero digit of the number 30^2720
-8) What will be the last digit of the number obtained by multiplying the numbers 81*82*83*84*86*87*88*89?
-9) Find the last three-digits of the product: 12345x54321
-10) Find the last digit of 1^5 + 2^5 + 3^5......9^5
+=> 1
 
+8) What will be the last digit of the number obtained by multiplying the numbers 81*82*83*84*86*87*88*89?
+=> 6
+
+9) Find the last three-digits of the product: 12345x54321
+=> 745
+
+10) Find the last digit of 1^5 + 2^5 + 3^5......9^5
+=> 5
 
 Remainders
 
