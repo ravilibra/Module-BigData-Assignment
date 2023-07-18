@@ -1,7 +1,8 @@
 
 
 
-Divisibility
+                                                   Divisibility
+
 
 1) Which one of the following numbers is divisible by 99?
 a) 3572404 = NO
@@ -36,7 +37,10 @@ d) 114345 = NO
 10) What is the product of the largest and the smallest possible values of M for which a number 5M83M4M1 is divisible by 9?
 => M = 2
 
-Factors
+
+
+                                                   Factors
+
 
 1) What is the number of prime factors in 6^4 x 8^6 x 10^8 x 14^10 x 22^12
 => 5
@@ -69,7 +73,9 @@ Factors
 => 15
 
 
-Unit digits (Cyclicity)
+
+                                               Unit digits (Cyclicity)
+
 
 1) What is the unit digit in the product (3^65 x 6^59 x 7^71) ?
 => 2
@@ -101,7 +107,10 @@ Unit digits (Cyclicity)
 10) Find the last digit of 1^5 + 2^5 + 3^5......9^5
 => 5
 
-Remainders
+
+
+                                                       Remainders
+
 
 1) What is the remainder when 7^25 is divided by 6?
 => 1
@@ -133,7 +142,10 @@ Remainders
 10) Find the remainder on dividing 1!+2!+3!.....+100! by 7?
 => 5
 
-Factorials
+
+
+                                                      Factorials
+
 
 1) What is the highest power of 21 that divides 20!?
 
@@ -165,7 +177,10 @@ Factorials
 10) Find the number of zeroes at the end of 1^1 × 2^2 × 3^3.....×100^100
 
 
-HCF/LCM
+
+
+                                                        HCF/LCM
+
 
 1) The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:
 a) 9000 b) 9400 c) 9600 d) 9800
