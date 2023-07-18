@@ -18,42 +18,119 @@ a) n2 b) n + 180 c) 2n d) n + 60
 
 
 Factors
-1) What is the number of prime factors in 6
-4
-x8
-6
-x108
-x14
-10x2212
+1) What is the number of prime factors in 6^4 x 8^6 x 10^8 x 14^10 x 22^12
 
-2) N= a4
-xb3
-xc7
-. Find the number of perfect square factors of N
+2) N= a^4 x b^3 x c^7. Find the number of perfect square factors of N where a,b,c are three distinct prime numbers.
+3) How many factors of 12^3 x 30^4 x 35^2 are even numbers?
 
-where a,b,c are three distinct prime numbers.
-3) How many factors of 123
-x304
-x35
-2 are even numbers?
-
-4) If N=27×34
-
-, M= 24×32×5, then find the number of factors of N
-
-that are common with the factors of M.
-5) N is the smallest number that has 5 factors. How many
-factors does (N - 1) have?
-6) If both 112 and 34 are factors of the number A x43
-x6
-2
-x1311
-,
-
-then what is the smallest possible value of A?
+4) If N=2&^7 × 3^4, M= 2^4 × 3^2 × 5, then find the number of factors of N that are common with the factors of M.
+5) N is the smallest number that has 5 factors. How many factors does (N - 1) have?
+6) If both 11^2 and 3^4 are factors of the number A x 4^3 x 6^2 x 13^11, then what is the smallest possible value of A?
 7) Find the total number of factors of 10!
-8) How many factors of 2^7 x 3^6
-x54
-x73 are even perfect squares?
+8) How many factors of 2^7 x 3^6 x5^4 x 7^3 are even perfect squares?
 9) In how many ways can 480 be written as a product of two natural numbers?
 10) How many factors of 2^5 x 3^4 x 5^3 are not the factors of 2^3 x 5^4 x7^5
+
+
+Unit digits (Cyclicity)
+
+1) What is the unit digit in the product (3^65 x 6^59 x 7^71) ?
+2) Find unit digit of product (173)^45 * (152)^77 * (777)^999
+3) What is the unit's digit of the number 6^256 – 4^256 ?
+
+4) Find the unit's digit in 264^102 + 264^103
+5) What is the unit digit of (316)^3n + 1?
+6) What is the unit digit in (7^95 - 3^58)?
+
+7) What is the rightmost non-zero digit of the number 30^2720
+8) What will be the last digit of the number obtained by multiplying the numbers 81*82*83*84*86*87*88*89?
+9) Find the last three-digits of the product: 12345x54321
+10) Find the last digit of 1^5 + 2^5 + 3^5......9^5
+
+
+Remainders
+
+1) What is the remainder when 7^25 is divided by 6?
+2) What is the remainder when 3^45 is divided by 8?
+3) Find the remainder when 4^96 is divided by 6.
+4) What is the remainder when 1415^16 is divided by 5?
+5) Find the remainder when 67^99 is divided by 7.
+6) What is the remainder when 73x75x78x57x197x37 is divided by 34.
+7) Let N = 1421*1423*1425. What is the remainder when N is divided by 12?
+8) Find the remainder when 2^256 is divided by 17.
+9) The remainder of 39^971 / 40 is:
+a) 39 b) 0 c) 1 d) None of these
+10) Find the remainder on dividing 1!+2!+3!.....+100! by 7?
+
+
+Factorials
+
+1) What is the highest power of 21 that divides 20!?
+2) What is the highest power of 32 that divides 31!?
+3) Find the largest number less than 28 which divides 28!?
+4) Find the number of zeroes at the end of 97!
+5) What is the highest power of 12 that divides 54!?
+6) Find the least value of x such that 60!/2^x is an odd number.
+7) Find the least value of ‘n’ if no factorial can have ‘n’ zeroes?
+8) What is the highest power of 7! dividing 50! completely.
+9) How many more trailing zeroes would 625! have than 624!?
+10) Find the number of zeroes at the end of 1^1 × 2^2 × 3^3.....×100^100
+
+
+HCF/LCM
+
+1) The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:
+a) 9000 b) 9400 c) 9600 d) 9800
+2) The H.C.F. of two numbers is 11 and their L.C.M. is 7700. If one of the numbers is 275, then the other is:
+a) 279 b) 283 c) 308 d) 318
+3) Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how
+   many times do they toll together including the toll at start?
+a) 4 b) 10 c) 15 d) 16
+4) Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:
+a) 4 b) 5 c) 6 d) 8
+5) Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.
+a) 4 b) 7 c) 9 d) 13
+6) The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:
+a) 101 b) 107 c) 111 d) 185
+7) Three number are in the ratio of 3:4:5 and their L.C.M. is 2400. Their H.C.F. is:
+a) 40 b) 80 c) 120 d) 200
+8) The G.C.D. of 1.08, 0.36 and 0.9 is:
+a) 0.03 b) 0.9 c) 0.18 d) 0.108
+9) The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:
+a) 1 b) 2 c) 3 d) 4
+10) The least multiple of 7, which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is:
+a) 74 b) 94 c) 184 d) 364
+11) The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:
+a) 3 b) 13 c) 23 d) 33
+12) The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but is divisible by 9, is:
+a) 1677 b) 1683 c) 2523 d) 3363
+13) A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252
+    seconds, B in 308 seconds and C in 198 seconds. After what time will they cross the same point from where they started?
+a) 26 m 18 s b) 42 m 36 s c) 45 m d) 46 m 12 s
+14) The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:
+a) 276 b) 299 c) 322 d) 345
+15) What will be the least number which when doubled will be exactly divisible by 12, 18, 21 and 30?
+a) 196 b) 630 c) 1260 d) 2520
+16) A rectangular courtyard 3.78 meters long 5.25 meters wide is to be paved with square tiles of exactly same size. What is
+    the largest size of the tile which can be used for this purpose?
+a) 14 cms b) 21 cms c) 42 cms d) None of these
+17) Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two
+    is 1073. The sum of the three numbers is:
+a) 75 b) 81 c) 85 d) 89
+18) The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively is:
+a) 123 b) 127 c) 235 d) 305
+19) The L.C.M. of two numbers is 48. The numbers are in the ratio 2:3. Then sum of the number is:
+a) 28 b) 32 c) 40 d) 64
+20) The greatest possible length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, 12 m 95 cm is:
+a) 15 cm b) 25 cm c) 35 cm d) 42 cm
+21) L.C.M. of two prime numbers x and y (x>y) is 161. The value of 3y-x is :
+a) -2 b) -1 c) 1 d) 2
+22) The H.C.F and L.C.M of two numbers are 11 and 385 respectively. If one number lies between 75 and 125, then that number is
+a) 77 b) 88 c) 99 d) 110
+23) If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, then the sum of the
+    reciprocals of the numbers is equal to:
+a) 55/601 b) 601/55 c) 11/120 d) 120/11
+24) The maximum number of students among them 1001 pens and 910 pencils can be distributed in such a way that each student gets the same
+    number of pens and same number of pencils is:
+a) 91 b) 910 c) 1001 d) 1911
+
