@@ -37,16 +37,31 @@ d) 114345 = NO
 => M = 2
 
 Factors
+
 1) What is the number of prime factors in 6^4 x 8^6 x 10^8 x 14^10 x 22^12
+=> 5
 
 2) N= a^4 x b^3 x c^7. Find the number of perfect square factors of N where a,b,c are three distinct prime numbers.
-3) How many factors of 12^3 x 30^4 x 35^2 are even numbers?
+=> 9
 
-4) If N=2&^7 × 3^4, M= 2^4 × 3^2 × 5, then find the number of factors of N that are common with the factors of M.
+3) How many factors of 12^3 x 30^4 x 35^2 are even numbers?
+=> 1680
+
+4) If N=2^7 × 3^4, M= 2^4 × 3^2 × 5, then find the number of factors of N that are common with the factors of M.
+=> 15
+
 5) N is the smallest number that has 5 factors. How many factors does (N - 1) have?
+=> 4
+
 6) If both 11^2 and 3^4 are factors of the number A x 4^3 x 6^2 x 13^11, then what is the smallest possible value of A?
+=> 33^2
+
 7) Find the total number of factors of 10!
+=> 210
+
 8) How many factors of 2^7 x 3^6 x5^4 x 7^3 are even perfect squares?
+=>
+
 9) In how many ways can 480 be written as a product of two natural numbers?
 10) How many factors of 2^5 x 3^4 x 5^3 are not the factors of 2^3 x 5^4 x7^5
 
